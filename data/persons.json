@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Meludas",
+    "age": "3000",
+    "photo_person": "../image/image1.jpg"
+  },
+  {
+    "name": "Satoru",
+    "age": "34",
+    "photo_person": "../image/image2.jpeg"
+  },
+  {
+    "name": "Yami",
+    "age": "37",
+    "photo_person": "../image/image3.jpg"
+  }
+]
